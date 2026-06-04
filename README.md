@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Alok 👋
 
-<!--
-**alok4127/alok4127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at SRM Institute of Science and Technology
 
-Here are some ideas to get you started:
+💼 Experience:
+- Full Stack Development Intern @ IncodeVision
+- Business Development Intern @ SpazorLabs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interests:
+- Full Stack Development
+- Software Engineering
+- AI & Machine Learning
+
+🛠️ Technologies:
+Java • C • SQL • HTML • CSS • JavaScript
+
+🚀 Featured Projects:
+- Portfolio Website
+- Student Registration System
+- E-Sports Tournament Management System
+- AI-Driven Personalised Finance Insights Engine
+
+📫 Connect With Me:
+- LinkedIn: www.linkedin.com/in/alok-ramteke-921401345
+- Portfolio: https://alok4127.github.io/portfolio-website/
